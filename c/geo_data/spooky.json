@@ -1,0 +1,13 @@
+{
+  "data":[
+{"latitude": 33.500000, "longitude": -75.000000, "info": "Speed = 25"},
+{"latitude": 27.250000, "longitude": -70.500000, "info": "Speed = 30"},
+{"latitude": 29.123455, "longitude": -72.345680, "info": "Speed = 18"},
+{"latitude": 28.456789, "longitude": -65.432098, "info": "Speed = 23"},
+{"latitude": 30.678900, "longitude": -66.789009, "info": "Speed = 17"},
+{"latitude": 32.000000, "longitude": -75.000000, "info": "Speed = 19"},
+{"latitude": 31.987654, "longitude": -67.123459, "info": "Speed = 26"},
+{"latitude": 27.500000, "longitude": -73.000000, "info": "Speed = 28"},
+{"latitude": 33.299999, "longitude": -66.599998, "info": "Speed = 27"}
+]
+}
