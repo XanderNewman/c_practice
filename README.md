@@ -1,2 +1,2 @@
 # c_practice
-c learning programs
+small c programs written for learning c
